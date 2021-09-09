@@ -3,7 +3,7 @@
 <h4>A fullstack developer from Spain</h4>
 
 
--🌱 I’m currently learning React, VueJS and Phyton
+-🌱 I’m currently learning React and Angular
 -📫 How to reach me linkedin.com/in/pabloyague/
 
 
